@@ -69,3 +69,7 @@ Realiza a busca de emails associados ao domínio fornecido.
    - `python3 emailfinder-bot.py`
 
 - Além de instalar o `requirements.txt`, o usuário deve garantir que a ferramenta **emailfinder** esteja instalada e disponível no sistema.
+#
+- Você encontra o Bot Online aqui no nosso Servidor: <a href="https://discord.gg/dQ4sbCHPbK">
+  <img src="https://img.shields.io/badge/Discord-OSINTMILGRAU-blue">
+</a>
