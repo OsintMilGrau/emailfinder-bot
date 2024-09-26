@@ -49,6 +49,10 @@ Realiza a busca de emails associados ao domínio fornecido.
 ### `/ajuda` Mostra as instruções de uso do bot.
 ![image](https://github.com/user-attachments/assets/00a2a916-e643-4a9f-bf8a-11156a29f654)
 
+## Vídeo de Demonstração
+
+[![Emailfinder Demo](https://img.youtube.com/vi/hNLuliaAg9c/maxresdefault.jpg)](https://www.youtube.com/watch?v=hNLuliaAg9c)
+
 ## Requisitos
 
 - Python 3.8+
